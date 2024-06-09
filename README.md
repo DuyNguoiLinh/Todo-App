@@ -1,3 +1,3 @@
 #Todo_App
 ## Screenshots
-![](https://github.com/DuyNguoiLinh/Todo-App/blob/master/assets/images/todo_app.png?raw=true)
+<img src="https://github.com/DuyNguoiLinh/Todo-App/blob/master/assets/images/todo_app.png?raw=true" alt="Mô tả ảnh 1" width="300"/>
